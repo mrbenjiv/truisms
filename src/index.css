@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: black;
+  color: white;
+  font-weight: 500;
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir,
+    helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
