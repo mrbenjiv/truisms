@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/truisms/static/css/main.33785743.chunk.css",
-    "main.js": "/truisms/static/js/main.e5784624.chunk.js",
-    "main.js.map": "/truisms/static/js/main.e5784624.chunk.js.map",
+    "main.js": "/truisms/static/js/main.9e4d31b9.chunk.js",
+    "main.js.map": "/truisms/static/js/main.9e4d31b9.chunk.js.map",
     "runtime-main.js": "/truisms/static/js/runtime-main.aabf6c7f.js",
     "runtime-main.js.map": "/truisms/static/js/runtime-main.aabf6c7f.js.map",
     "static/js/2.6cad17a5.chunk.js": "/truisms/static/js/2.6cad17a5.chunk.js",
     "static/js/2.6cad17a5.chunk.js.map": "/truisms/static/js/2.6cad17a5.chunk.js.map",
     "index.html": "/truisms/index.html",
-    "precache-manifest.8654cad42e1aa329f2ea3d9404e2112b.js": "/truisms/precache-manifest.8654cad42e1aa329f2ea3d9404e2112b.js",
+    "precache-manifest.05b50a32a61dc4f1f07df5cef17908cc.js": "/truisms/precache-manifest.05b50a32a61dc4f1f07df5cef17908cc.js",
     "service-worker.js": "/truisms/service-worker.js",
     "static/css/main.33785743.chunk.css.map": "/truisms/static/css/main.33785743.chunk.css.map",
     "static/js/2.6cad17a5.chunk.js.LICENSE": "/truisms/static/js/2.6cad17a5.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.aabf6c7f.js",
     "static/js/2.6cad17a5.chunk.js",
     "static/css/main.33785743.chunk.css",
-    "static/js/main.e5784624.chunk.js"
+    "static/js/main.9e4d31b9.chunk.js"
   ]
 }
